@@ -1,0 +1,26 @@
+*,body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 860px;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+.Footer {
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    background-color: black;
+    padding: 20px;
+    line-height: 1.5;
+  }
